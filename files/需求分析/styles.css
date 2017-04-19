@@ -13,7 +13,7 @@
   position:absolute;
   z-index:0;
 }
-#u31_div {
+#u64_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -32,7 +32,7 @@
   font-size:36px;
   text-align:left;
 }
-#u31 {
+#u64 {
   position:absolute;
   left:0px;
   top:0px;
@@ -44,7 +44,7 @@
   font-size:36px;
   text-align:left;
 }
-#u32 {
+#u65 {
   position:absolute;
   left:2px;
   top:50px;
